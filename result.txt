@@ -1,0 +1,169 @@
+[Start sniffing]
+
+[TCP capture start point(count : 1)]
+[Ethernet Header]
+Source MAC : 08:00:27:81:60:32:
+Destination MAC : 52:54:00:12:35:02:
+[IP Header]
+Source IP : 10.0.2.15
+Destination IP : 23.215.0.138
+[TCP Header]
+Source Port : 39180
+Destination Port : 80
+[Message] length : 380
+Hex Data : 99 0c 00 50 09 84 b9 e5 07 69 84 d6 50 18 ff ff 25 f2 00 00 47 45 54 20 2f 20 48 54 54 50 2f 31 2e 31 0d 0a 48 6f 73 74 3a 20 65 78 61 6d 70 6c 65 2e 63 6f 6d 0d 0a 55 73 65 72 2d 41 67 65 6e 
+Ascii Data : ...P.....i..P...%...GET / HTTP/1.1..Host: example.com..User-Agen
+
+[TCP capture start point(count : 2)]
+[Ethernet Header]
+Source MAC : 52:54:00:12:35:02:
+Destination MAC : 08:00:27:81:60:32:
+[IP Header]
+Source IP : 23.215.0.138
+Destination IP : 10.0.2.15
+[TCP Header]
+Source Port : 80
+Destination Port : 39180
+[Message] length : 26
+Hex Data : 00 50 99 0c 07 69 84 d6 09 84 bb 4d 50 10 ff ff a0 f7 00 00 00 00 00 00 00 00 
+Ascii Data : .P...i.....MP.............
+
+[TCP capture start point(count : 3)]
+[Ethernet Header]
+Source MAC : 52:54:00:12:35:02:
+Destination MAC : 08:00:27:81:60:32:
+[IP Header]
+Source IP : 23.215.0.138
+Destination IP : 10.0.2.15
+[TCP Header]
+Source Port : 80
+Destination Port : 39180
+[Message] length : 998
+Hex Data : 00 50 99 0c 07 69 84 d6 09 84 bb 4d 50 18 ff ff 78 83 00 00 48 54 54 50 2f 31 2e 31 20 32 30 30 20 4f 4b 0d 0a 41 63 63 65 70 74 2d 52 61 6e 67 65 73 3a 20 62 79 74 65 73 0d 0a 43 6f 6e 74 65 
+Ascii Data : .P...i.....MP...x...HTTP/1.1 200 OK..Accept-Ranges: bytes..Conte
+
+[TCP capture start point(count : 4)]
+[Ethernet Header]
+Source MAC : 08:00:27:81:60:32:
+Destination MAC : 52:54:00:12:35:02:
+[IP Header]
+Source IP : 10.0.2.15
+Destination IP : 23.215.0.138
+[TCP Header]
+Source Port : 39180
+Destination Port : 80
+[Message] length : 20
+Hex Data : 99 0c 00 50 09 84 bb 4d 07 69 88 a8 50 10 ff ff 24 8a 00 00 
+Ascii Data : ...P...M.i..P...$...
+
+[TCP capture start point(count : 5)]
+[Ethernet Header]
+Source MAC : 08:00:27:81:60:32:
+Destination MAC : 52:54:00:12:35:02:
+[IP Header]
+Source IP : 10.0.2.15
+Destination IP : 23.215.0.138
+[TCP Header]
+Source Port : 39180
+Destination Port : 80
+[Message] length : 394
+Hex Data : 99 0c 00 50 09 84 bb 4d 07 69 88 a8 50 18 ff ff 26 00 00 00 47 45 54 20 2f 66 61 76 69 63 6f 6e 2e 69 63 6f 20 48 54 54 50 2f 31 2e 31 0d 0a 48 6f 73 74 3a 20 65 78 61 6d 70 6c 65 2e 63 6f 6d 
+Ascii Data : ...P...M.i..P...&...GET /favicon.ico HTTP/1.1..Host: example.com
+
+[TCP capture start point(count : 6)]
+[Ethernet Header]
+Source MAC : 52:54:00:12:35:02:
+Destination MAC : 08:00:27:81:60:32:
+[IP Header]
+Source IP : 23.215.0.138
+Destination IP : 10.0.2.15
+[TCP Header]
+Source Port : 80
+Destination Port : 39180
+[Message] length : 26
+Hex Data : 00 50 99 0c 07 69 88 a8 09 84 bc c3 50 10 ff ff 9b af 00 00 00 00 00 00 00 00 
+Ascii Data : .P...i......P.............
+
+[TCP capture start point(count : 7)]
+[Ethernet Header]
+Source MAC : 52:54:00:12:35:02:
+Destination MAC : 08:00:27:81:60:32:
+[IP Header]
+Source IP : 23.215.0.138
+Destination IP : 10.0.2.15
+[TCP Header]
+Source Port : 80
+Destination Port : 39180
+[Message] length : 1480
+Hex Data : 00 50 99 0c 07 69 88 a8 09 84 bc c3 50 18 ff ff 06 a6 00 00 48 54 54 50 2f 31 2e 31 20 34 30 34 20 4e 6f 74 20 46 6f 75 6e 64 0d 0a 41 63 63 65 70 74 2d 52 61 6e 67 65 73 3a 20 62 79 74 65 73 
+Ascii Data : .P...i......P.......HTTP/1.1 404 Not Found..Accept-Ranges: bytes
+
+[TCP capture start point(count : 8)]
+[Ethernet Header]
+Source MAC : 08:00:27:81:60:32:
+Destination MAC : 52:54:00:12:35:02:
+[IP Header]
+Source IP : 10.0.2.15
+Destination IP : 23.215.0.138
+[TCP Header]
+Source Port : 39180
+Destination Port : 80
+[Message] length : 20
+Hex Data : 99 0c 00 50 09 84 bc c3 07 69 8e 5c 50 10 ff ff 24 8a 00 00 
+Ascii Data : ...P.....i.\P...$...
+
+[TCP capture start point(count : 9)]
+[Ethernet Header]
+Source MAC : 52:54:00:12:35:02:
+Destination MAC : 08:00:27:81:60:32:
+[IP Header]
+Source IP : 23.215.0.138
+Destination IP : 10.0.2.15
+[TCP Header]
+Source Port : 80
+Destination Port : 39180
+[Message] length : 208
+Hex Data : 00 50 99 0c 07 69 8e 5c 09 84 bc c3 50 18 ff ff 25 a9 00 00 0a 20 20 20 20 64 6f 6d 61 69 6e 20 69 6e 20 6c 69 74 65 72 61 74 75 72 65 20 77 69 74 68 6f 75 74 20 70 72 69 6f 72 20 63 6f 6f 72 
+Ascii Data : .P...i.\....P...%....    domain in literature without prior coor
+
+[TCP capture start point(count : 10)]
+[Ethernet Header]
+Source MAC : 08:00:27:81:60:32:
+Destination MAC : 52:54:00:12:35:02:
+[IP Header]
+Source IP : 10.0.2.15
+Destination IP : 23.215.0.138
+[TCP Header]
+Source Port : 39180
+Destination Port : 80
+[Message] length : 20
+Hex Data : 99 0c 00 50 09 84 bc c3 07 69 8f 18 50 10 ff ff 24 8a 00 00 
+Ascii Data : ...P.....i..P...$...
+
+[TCP capture start point(count : 11)]
+[Ethernet Header]
+Source MAC : 08:00:27:81:60:32:
+Destination MAC : 52:54:00:12:35:02:
+[IP Header]
+Source IP : 10.0.2.15
+Destination IP : 23.215.0.138
+[TCP Header]
+Source Port : 39180
+Destination Port : 80
+[Message] length : 20
+Hex Data : 99 0c 00 50 09 84 bc c2 07 69 8f 18 50 10 ff ff 24 8a 00 00 
+Ascii Data : ...P.....i..P...$...
+
+[TCP capture start point(count : 12)]
+[Ethernet Header]
+Source MAC : 52:54:00:12:35:02:
+Destination MAC : 08:00:27:81:60:32:
+[IP Header]
+Source IP : 23.215.0.138
+Destination IP : 10.0.2.15
+[TCP Header]
+Source Port : 80
+Destination Port : 39180
+[Message] length : 26
+Hex Data : 00 50 99 0c 07 69 8f 18 09 84 bc c3 50 10 ff ff 95 3f 00 00 00 00 00 00 00 00 
+Ascii Data : .P...i......P....?........
