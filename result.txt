@@ -2,8 +2,8 @@
 
 [TCP capture start point(count : 1)]
 [Ethernet Header]
-Source MAC : 08:00:27:81:60:32:
-Destination MAC : 52:54:00:12:35:02:
+Source MAC : 08:00:27:81:60:32
+Destination MAC : 52:54:00:12:35:02
 [IP Header]
 Source IP : 10.0.2.15
 Destination IP : 23.215.0.138
@@ -16,8 +16,8 @@ Ascii Data : ...P.....i..P...%...GET / HTTP/1.1..Host: example.com..User-Agen
 
 [TCP capture start point(count : 2)]
 [Ethernet Header]
-Source MAC : 52:54:00:12:35:02:
-Destination MAC : 08:00:27:81:60:32:
+Source MAC : 52:54:00:12:35:02
+Destination MAC : 08:00:27:81:60:32
 [IP Header]
 Source IP : 23.215.0.138
 Destination IP : 10.0.2.15
@@ -30,8 +30,8 @@ Ascii Data : .P...i.....MP.............
 
 [TCP capture start point(count : 3)]
 [Ethernet Header]
-Source MAC : 52:54:00:12:35:02:
-Destination MAC : 08:00:27:81:60:32:
+Source MAC : 52:54:00:12:35:02
+Destination MAC : 08:00:27:81:60:32
 [IP Header]
 Source IP : 23.215.0.138
 Destination IP : 10.0.2.15
@@ -44,8 +44,8 @@ Ascii Data : .P...i.....MP...x...HTTP/1.1 200 OK..Accept-Ranges: bytes..Conte
 
 [TCP capture start point(count : 4)]
 [Ethernet Header]
-Source MAC : 08:00:27:81:60:32:
-Destination MAC : 52:54:00:12:35:02:
+Source MAC : 08:00:27:81:60:32
+Destination MAC : 52:54:00:12:35:02
 [IP Header]
 Source IP : 10.0.2.15
 Destination IP : 23.215.0.138
@@ -58,8 +58,8 @@ Ascii Data : ...P...M.i..P...$...
 
 [TCP capture start point(count : 5)]
 [Ethernet Header]
-Source MAC : 08:00:27:81:60:32:
-Destination MAC : 52:54:00:12:35:02:
+Source MAC : 08:00:27:81:60:32
+Destination MAC : 52:54:00:12:35:02
 [IP Header]
 Source IP : 10.0.2.15
 Destination IP : 23.215.0.138
@@ -72,8 +72,8 @@ Ascii Data : ...P...M.i..P...&...GET /favicon.ico HTTP/1.1..Host: example.com
 
 [TCP capture start point(count : 6)]
 [Ethernet Header]
-Source MAC : 52:54:00:12:35:02:
-Destination MAC : 08:00:27:81:60:32:
+Source MAC : 52:54:00:12:35:02
+Destination MAC : 08:00:27:81:60:32
 [IP Header]
 Source IP : 23.215.0.138
 Destination IP : 10.0.2.15
@@ -86,8 +86,8 @@ Ascii Data : .P...i......P.............
 
 [TCP capture start point(count : 7)]
 [Ethernet Header]
-Source MAC : 52:54:00:12:35:02:
-Destination MAC : 08:00:27:81:60:32:
+Source MAC : 52:54:00:12:35:02
+Destination MAC : 08:00:27:81:60:32
 [IP Header]
 Source IP : 23.215.0.138
 Destination IP : 10.0.2.15
@@ -100,8 +100,8 @@ Ascii Data : .P...i......P.......HTTP/1.1 404 Not Found..Accept-Ranges: bytes
 
 [TCP capture start point(count : 8)]
 [Ethernet Header]
-Source MAC : 08:00:27:81:60:32:
-Destination MAC : 52:54:00:12:35:02:
+Source MAC : 08:00:27:81:60:32
+Destination MAC : 52:54:00:12:35:02
 [IP Header]
 Source IP : 10.0.2.15
 Destination IP : 23.215.0.138
@@ -114,8 +114,8 @@ Ascii Data : ...P.....i.\P...$...
 
 [TCP capture start point(count : 9)]
 [Ethernet Header]
-Source MAC : 52:54:00:12:35:02:
-Destination MAC : 08:00:27:81:60:32:
+Source MAC : 52:54:00:12:35:02
+Destination MAC : 08:00:27:81:60:32
 [IP Header]
 Source IP : 23.215.0.138
 Destination IP : 10.0.2.15
@@ -128,8 +128,8 @@ Ascii Data : .P...i.\....P...%....    domain in literature without prior coor
 
 [TCP capture start point(count : 10)]
 [Ethernet Header]
-Source MAC : 08:00:27:81:60:32:
-Destination MAC : 52:54:00:12:35:02:
+Source MAC : 08:00:27:81:60:32
+Destination MAC : 52:54:00:12:35:02
 [IP Header]
 Source IP : 10.0.2.15
 Destination IP : 23.215.0.138
@@ -142,8 +142,8 @@ Ascii Data : ...P.....i..P...$...
 
 [TCP capture start point(count : 11)]
 [Ethernet Header]
-Source MAC : 08:00:27:81:60:32:
-Destination MAC : 52:54:00:12:35:02:
+Source MAC : 08:00:27:81:60:32
+Destination MAC : 52:54:00:12:35:02
 [IP Header]
 Source IP : 10.0.2.15
 Destination IP : 23.215.0.138
@@ -156,8 +156,8 @@ Ascii Data : ...P.....i..P...$...
 
 [TCP capture start point(count : 12)]
 [Ethernet Header]
-Source MAC : 52:54:00:12:35:02:
-Destination MAC : 08:00:27:81:60:32:
+Source MAC : 52:54:00:12:35:02
+Destination MAC : 08:00:27:81:60:32
 [IP Header]
 Source IP : 23.215.0.138
 Destination IP : 10.0.2.15
